@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgyublog=self.webpackChunkgyublog||[]).push([[3247],{8014:l=>{l.exports=JSON.parse('{"label":"goland","permalink":"/blog/blog/tags/goland","allTagsPath":"/blog/blog/tags","count":2}')}}]);
