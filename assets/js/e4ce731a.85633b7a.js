@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgyublog=self.webpackChunkgyublog||[]).push([[5801],{7276:l=>{l.exports=JSON.parse('{"label":"pointer","permalink":"/blog/blog/tags/pointer","allTagsPath":"/blog/blog/tags","count":1}')}}]);
